@@ -12,7 +12,7 @@ A 2D RPG set in the world of Kyros. Fight monsters, find loot, get rich, and bec
 1. Make sure you have Python 3 installed (https://www.python.org/downloads/)
 2. Download this repository
 3. Open the Game folder
-4. Open a terminal in that folder and run: python TextBasedRPG.py
+4. Open a terminal in that folder and run: Kyros_2D.py
 
 ## Features
 - Explore the town of Elya
