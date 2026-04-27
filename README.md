@@ -1,4 +1,4 @@
-# Kyros-RPG.PyGame
+# Kyros-RPG.Pygame
 
 ![Stars](https://img.shields.io/github/stars/Bookworm2012/Kyros-RPG)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
